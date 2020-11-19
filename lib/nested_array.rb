@@ -57,6 +57,7 @@ def sorted_matrix
     "Asparagus"
     ]
   ]
+  sorted_matrix = sorted_matrix.sort
 end
 
 def matrix_lookup(matrix, row, column)
