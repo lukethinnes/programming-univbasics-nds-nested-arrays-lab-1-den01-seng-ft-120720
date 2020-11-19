@@ -57,7 +57,7 @@ def sorted_matrix
     "Asparagus"
     ]
   ]
-  sorted_matrix.sort[[0]]
+  sorted_matrix.sort_by do |character|
 end
 
 def matrix_lookup(matrix, row, column)
