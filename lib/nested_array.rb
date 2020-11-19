@@ -35,6 +35,7 @@ def assembled_matrix
     "Avocadoes",
     "Asparagus"
     ]
+  ]
 end
 
 def sorted_matrix
