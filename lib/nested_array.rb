@@ -57,7 +57,7 @@ def sorted_matrix
     "Asparagus"
     ]
   ]
-  sorted_matrix = array.sort
+  sorted_matrix = sorted_matrix.sort
   sorted_matrix
 end
 
